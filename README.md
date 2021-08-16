@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michanky
-- 👀 I’m interested in data science, particularly Natural Language Processing and web development. 
+- 👀 I’m interested in data science and web development. 
 - 🌱 I’m currently learning CSS, JS, MongoDB. 
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/michael-ng-9545351a5/
